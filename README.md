@@ -19,7 +19,7 @@ while(!success) {
 }
 ```
 
-- 🛠️ Currently: Finalizing a **Medical Diagnosis AI** project and a **Network IDS**
+- 🛠️ Currently: Finalizing a **Sentiment Analysis using opinion mining** project and a **Honeypot that captures attacker behaviour**
 - 🚀 Interested in: Full Stack Dev • ML/AI • Cybersecurity • Blockchain
 - 🕹️ Gamer’s mindset: Strategy + Speed + Smooth Execution
 - 🎯 Goal: Ship clean, efficient code & creative UIs with impact
