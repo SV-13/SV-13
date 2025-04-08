@@ -49,7 +49,7 @@ while(!success) {
 
 | 🔬 AI/ML | 🛡 Cybersecurity | ☁️ Cloud |
 |--------|----------------|---------|
-| [🩺 Medical Diagnosis using AI](https://github.com/SV-13/Medical-Diagnosis-using-AI) | [🛡 Basic NIDS](https://github.com/SV-13/Basic-Network-Intrusion-Detection-System) | [📦 Asset Tracker](https://github.com/SV-13/Cloud-Based-Asset-Tracking-System) |
+| [🩺 Medical Diagnosis using AI](https://github.com/SV-13/Medical-Diagnosis-using-AI) | [🛡 HoneyPot](https://github.com/SV-13/Basic-Network-Intrusion-Detection-System) | [📦 Decentralised Digilocker](https://github.com/SV-13/Decentralized-DigiVault) |
 
 > 🔗 Want more? Visit my [Projects](https://github.com/SV-13?tab=repositories)
 
