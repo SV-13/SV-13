@@ -1,5 +1,5 @@
 
-<h1 align="center">🎮 Sujal Verma</h1>
+<h1 align="center">♞ Sujal Verma</h1>
 <p align="center"><i>Full Stack Dev | ML Explorer </i></p>
 
 ---
