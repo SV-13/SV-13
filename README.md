@@ -76,8 +76,8 @@ while(!success) {
 ### 🕹️ Power-Ups: Side Quests
 
 - Participated in Hackathons
-- Gaming Strategy Learner (Valorant 🎯)
-- Creating a gamified personal portfolio next 🎮
+- Football⚽ and Chess♟️ 
+- Personal portfolio coming soon.. 🎮🪄🧙‍♂️
 
 ---
 
