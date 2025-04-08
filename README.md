@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+cool+things...;Gaming+between+commits...;Learning+every+day!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+cool+things...;Gaming+between+commits...;Learning+every+day!;Hustle,+Loyalty,+Respect">
 </p>
 
 ---
