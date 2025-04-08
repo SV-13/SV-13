@@ -90,7 +90,7 @@ while(!success) {
 ---
 
 <p align="center">
-  <i>"Code like a pro, think like a gamer, and never stop learning."</i> 🚀
+  <i>"Code like a pro, think like a gamer, and never give up."</i> 🚀
 </p>
 <!--
 **SV-13/SV-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
