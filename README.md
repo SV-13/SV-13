@@ -19,7 +19,7 @@ while(!success) {
 }
 ```
 
-- 🛠️ Currently: Finalizing a **Sentiment Analysis using opinion mining** project and a **Honeypot that captures attacker behaviour**
+- 🎓 Final-year CSE undergrad | Passionate about tech with real-world impact
 - 🚀 Interested in: Full Stack Dev • ML/AI • Cybersecurity • Blockchain
 - 🏃 Athletic mindset: Consistency + Strategise + Smooth Execution 
 - 🎯 Goal: Ship clean, efficient code & creative UIs with impact
@@ -34,7 +34,6 @@ while(!success) {
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 
 #### 🧰 Tools & Platforms
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
@@ -49,7 +48,7 @@ while(!success) {
 
 | 🔬 AI/ML | 🛡 Cybersecurity | ☁️ Cloud |
 |--------|----------------|---------|
-| [🩺 Medical Diagnosis using AI](https://github.com/SV-13/Medical-Diagnosis-using-AI) | [🛡 HoneyPot](https://github.com/SV-13/Basic-Network-Intrusion-Detection-System) | [📦 Decentralised Digilocker](https://github.com/SV-13/Decentralized-DigiVault) |
+| [🩺 Medical Diagnosis using AI](https://github.com/SV-13/Medical-Diagnosis-using-AI) |         | [📦 Decentralised Digilocker](https://github.com/SV-13/Decentralized-DigiVault) |
 
 > 🔗 Want more? Visit my [Projects](https://github.com/SV-13?tab=repositories)
 
@@ -94,15 +93,3 @@ while(!success) {
 </p>
 <!--
 **SV-13/SV-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
